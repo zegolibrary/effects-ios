@@ -13,8 +13,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ZegoEffects",
-            url: "",
-            checksum: ""
+            url: "https://artifact-node.zego.cloud/generic/swiftpm/public/effects-ios/ZegoEffects.xcframework.zip?version=2.2.9",
+            checksum: "e31e7e0d56d166a5e4a08eee83f92cbae3280735afaac12974bb0cdb12fa78cd"
         )
     ]
 )
